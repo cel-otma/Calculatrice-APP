@@ -12,7 +12,7 @@ ce projet  realise par  manal achraf and chahid EL OTMANY
 ## Screenshots
 
 ![](Screenshots/1.png)</br>
-![](Screenshots/2.png)</br>
+![](Screenshots/2.PNG)</br>
 
 ## Subject
 
