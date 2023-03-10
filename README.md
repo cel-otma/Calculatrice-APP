@@ -1,3 +1,20 @@
 # CalculatorAndroid
-Fully functionable calculator app in Android Studio
-this projet realised by manal achraf and chahid EL OTMANY
+Application de calculatrice entièrement fonctionnelle dans Android Studio
+
+Ce projet donne à un utilisateur de faire des calcules,  (Addition, Soustraction, Multiplicatin, Division )
+
+ce projet  realise par  manal achraf and chahid EL OTMANY
+
+### Stack
+
+* Java
+
+## Screenshots
+
+![](Screenshots/1.png)</br>
+![](Screenshots/2.png)</br>
+
+## Subject
+
+
+[Subject](https://drive.google.com/drive/folders/1dxzNfMapYn1o6dhBe7O5s650TrPJVceV?hl=fr)</br>
