@@ -3,7 +3,7 @@ Application de calculatrice entièrement fonctionnelle dans Android Studio
 
 Ce projet donne à un utilisateur de faire des calcules,  (Addition, Soustraction, Multiplicatin, Division )
 
-ce projet  realise par  BOUYAHYI Manal , achraf and chahid EL OTMANY
+ce projet  realise par  BOUYAHYI Manal , ACHRAF M'RABETI and CHAHID EL OTMANY
 
 ### Stack
 
